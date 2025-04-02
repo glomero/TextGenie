@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\C#_pracrice\TextGenie\TextGenie\obj\Debug\net7.0-windows\TextGenie.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C#_pracrice\TextGenie\TextGenie\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Administrator\Desktop\C#_pracrice\TextGenie\TextGenie\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Administrator\Desktop\C#_pracrice\TextGenie\TextGenie\obj\Debug\net7.0-windows\TextGenie_MarkupCompile.cache
+C:\Users\Administrator\Desktop\C#_pracrice\TextGenie\TextGenie\obj\Debug\net7.0-windows\TextGenie_MarkupCompile.lref

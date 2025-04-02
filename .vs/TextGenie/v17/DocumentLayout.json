@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C#_pracrice\\TextGenie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12345678-1234-1234-1234-123456789012}|TextGenie\\TextGenie.csproj|c:\\users\\administrator\\desktop\\c#_pracrice\\textgenie\\textgenie\\services\\itextprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12345678-1234-1234-1234-123456789012}|TextGenie\\TextGenie.csproj|solutionrelative:textgenie\\services\\itextprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12345678-1234-1234-1234-123456789012}|TextGenie\\TextGenie.csproj|c:\\users\\administrator\\desktop\\c#_pracrice\\textgenie\\textgenie\\services\\ollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12345678-1234-1234-1234-123456789012}|TextGenie\\TextGenie.csproj|solutionrelative:textgenie\\services\\ollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12345678-1234-1234-1234-123456789012}|TextGenie\\TextGenie.csproj|c:\\users\\administrator\\desktop\\c#_pracrice\\textgenie\\textgenie\\services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12345678-1234-1234-1234-123456789012}|TextGenie\\TextGenie.csproj|solutionrelative:textgenie\\services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12345678-1234-1234-1234-123456789012}|TextGenie\\TextGenie.csproj|c:\\users\\administrator\\desktop\\c#_pracrice\\textgenie\\textgenie\\models\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12345678-1234-1234-1234-123456789012}|TextGenie\\TextGenie.csproj|solutionrelative:textgenie\\models\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12345678-1234-1234-1234-123456789012}|TextGenie\\TextGenie.csproj|c:\\users\\administrator\\desktop\\c#_pracrice\\textgenie\\textgenie\\services\\textprocessingservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12345678-1234-1234-1234-123456789012}|TextGenie\\TextGenie.csproj|solutionrelative:textgenie\\services\\textprocessingservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12345678-1234-1234-1234-123456789012}|TextGenie\\TextGenie.csproj|c:\\users\\administrator\\desktop\\c#_pracrice\\textgenie\\textgenie\\services\\chatgptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12345678-1234-1234-1234-123456789012}|TextGenie\\TextGenie.csproj|solutionrelative:textgenie\\services\\chatgptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C#_pracrice\\TextGenie\\TextGenie\\Services\\ConfigurationService.cs",
+              "RelativeDocumentMoniker": "TextGenie\\Services\\ConfigurationService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C#_pracrice\\TextGenie\\TextGenie\\Services\\ConfigurationService.cs",
+              "RelativeToolTip": "TextGenie\\Services\\ConfigurationService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:52:10.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextProcessingServiceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C#_pracrice\\TextGenie\\TextGenie\\Services\\TextProcessingServiceFactory.cs",
+              "RelativeDocumentMoniker": "TextGenie\\Services\\TextProcessingServiceFactory.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C#_pracrice\\TextGenie\\TextGenie\\Services\\TextProcessingServiceFactory.cs",
+              "RelativeToolTip": "TextGenie\\Services\\TextProcessingServiceFactory.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:51:50.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OllamaService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C#_pracrice\\TextGenie\\TextGenie\\Services\\OllamaService.cs",
+              "RelativeDocumentMoniker": "TextGenie\\Services\\OllamaService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C#_pracrice\\TextGenie\\TextGenie\\Services\\OllamaService.cs",
+              "RelativeToolTip": "TextGenie\\Services\\OllamaService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:51:33.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITextProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C#_pracrice\\TextGenie\\TextGenie\\Services\\ITextProcessingService.cs",
+              "RelativeDocumentMoniker": "TextGenie\\Services\\ITextProcessingService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C#_pracrice\\TextGenie\\TextGenie\\Services\\ITextProcessingService.cs",
+              "RelativeToolTip": "TextGenie\\Services\\ITextProcessingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:50:59.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatGPTService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C#_pracrice\\TextGenie\\TextGenie\\Services\\ChatGPTService.cs",
+              "RelativeDocumentMoniker": "TextGenie\\Services\\ChatGPTService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C#_pracrice\\TextGenie\\TextGenie\\Services\\ChatGPTService.cs",
+              "RelativeToolTip": "TextGenie\\Services\\ChatGPTService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAA8wBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:44:34.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C#_pracrice\\TextGenie\\TextGenie\\Models\\ApiConfig.cs",
+              "RelativeDocumentMoniker": "TextGenie\\Models\\ApiConfig.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C#_pracrice\\TextGenie\\TextGenie\\Models\\ApiConfig.cs",
+              "RelativeToolTip": "TextGenie\\Models\\ApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:44:28.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
